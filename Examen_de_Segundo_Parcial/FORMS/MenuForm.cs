@@ -15,5 +15,20 @@ namespace FORMS
         {
             InitializeComponent();
         }
+
+        private void Productos_toolStripButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Clientes_toolStripButton_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void NuevaFactura_toolStripButton3_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
